@@ -1,0 +1,28 @@
+_repo: Petition-and-memorial-of-David-Quinn-asking-for-the-re-establishment-of-Negro-slavery-in-the-__70099
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quinn, David, active 1850-1869
+    gutenberg_agent_id: '55599'
+    url: http://www.gutenberg.org/2009/agents/55599
+description: ''
+gutenberg_issued: '2023-02-21'
+identifiers:
+  gutenberg: '70099'
+language: en
+pgterms:marc905: 20190408075206quinn
+pgterms:marc907: US
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by the Library of Congress)
+publication_note: '  $aUnited States :$bUnknown.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Justification'
+- !lcc 'E151'
+- GITenberg
+title: Petition and memorial of David Quinn, asking for the re-establishment of Negro
+  slavery in the United States
+url: http://www.gutenberg.org/ebooks/70099
